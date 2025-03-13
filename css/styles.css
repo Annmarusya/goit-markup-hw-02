@@ -93,7 +93,7 @@ a {
         background-color: #4d5ae5;
         cursor: pointer;
 }
-.header-button:hover, .header-logo:focus{
+.hero-button:hover, .header-logo:focus{
     background-color: #404bbf;
 }
 
